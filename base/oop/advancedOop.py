@@ -49,3 +49,5 @@ class Student(object):
 s = Student()
 s.score = 60 # OK，实际转化为s.set_score(60)
 s.score # OK，实际转化为s.get_score()
+
+

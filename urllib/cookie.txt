@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.zfengche.com	FALSE	/zfengche-admin/	FALSE		JSESSIONID	DAF45DDF9181AE5CCFEEF184C4CD68E5

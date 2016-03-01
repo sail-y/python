@@ -5,7 +5,7 @@ import unittest
 
 class Dict(dict):
     def __init__(self, **kw):
-        super(Dict, self).__init__(**kw)
+        super().__init__(**kw)
 
     def __getattr__(self, key):
         try:
